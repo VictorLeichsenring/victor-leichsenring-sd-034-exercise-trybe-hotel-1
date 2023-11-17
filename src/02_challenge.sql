@@ -1,1 +1,1 @@
-use trybe_hotel;
+USE trybe_hotel;
