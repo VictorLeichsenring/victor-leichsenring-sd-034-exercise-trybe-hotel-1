@@ -1,0 +1,1 @@
+select first_name AS 'primeiro_nome', last_name AS 'ultimo_nome' from trybe_hotel.users;
